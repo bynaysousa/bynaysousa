@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bynaysousa
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning JAVA, JAVAcript
+- 🌱 I’m currently learning JAVA, python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me. For email: najlasousa08@gmail.com
 - instagram: @bynaysousa
